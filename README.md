@@ -1,2 +1,2 @@
-# UE4_GameJam_project
+# UE4 summer Jam project
 *
